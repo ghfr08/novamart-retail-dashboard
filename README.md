@@ -44,7 +44,7 @@ src/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/novamart-retail-dashboard.git
+git clone https://github.com/ghfr08/novamart-retail-dashboard.git
 ```
 
 Navigate to the project folder:
